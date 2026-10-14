@@ -17,6 +17,10 @@ I'm a third-year engineering student interested in software development, AI/ML, 
 
 🚀 Featured Projects
 
+[ForensIQ — Digital Companion for Drug Field Testing](github.com/roshit234/forensiq.git)
+
+A project focused on supporting drug field-testing workflows through a handy companion application.
+
 [College Resource Platform (EduVault)](https://github.com/roshit234/college-resource-platform)
 
 A platform for students to share and access academic resources.
