@@ -38,7 +38,7 @@ An AI-focused project for packet-tracer diagnostics and a human review loop.
 ### 📫 Connect With Me
 
 - GitHub: [roshit234](https://github.com/roshit234)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Roshit Goyal](https://www.linkedin.com/in/roshit-goyal-72987b33b/?isSelfProfile=true)
 
 
 
