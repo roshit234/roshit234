@@ -1,6 +1,7 @@
 Hi, I'm Roshit Goyal 👋
 
 B.Tech Student | Artificial Intelligence & Machine Learning
+
 I'm a third-year engineering student interested in software development, AI/ML, and building practical projects.
 
 - 💻 Practicing Data Structures and Algorithms
