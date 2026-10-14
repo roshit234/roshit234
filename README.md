@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Roshit Goyal 👋
 
-<!--
-**roshit234/roshit234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student | Artificial Intelligence & Machine Learning
+I'm a third-year engineering student interested in software development, AI/ML, and building practical projects.
 
-Here are some ideas to get you started:
+- 💻 Practicing Data Structures and Algorithms
+- 🌱 Improving my web development and backend skills
+- 🚀 Building projects to strengthen my programming skills
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+
+- Languages: Java, Python, C++
+- Web Development: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+🚀 Featured Projects
+
+[College Resource Platform (EduVault)](https://github.com/roshit234/college-resource-platform)
+
+A platform for students to share and access academic resources.
+
+[NetSage-AI](https://github.com/roshit234/NetSage-AI)
+
+An AI-focused project for packet-tracer diagnostics and a human review loop.
+
+📜 Certifications
+
+- Cisco Networking Basics
+- Cisco Apply AI: Analyze Customer Review
+- Prompt Engineering and ChatGPT — Gold Certificate (FutureSkills Prime / NASSCOM)
+
+📫 Connect With Me
+
+- GitHub: [roshit234](https://github.com/roshit234)
+- LinkedIn: [Roshit Goyal](https://www.linkedin.com/in/roshit-goyal-72987b33b/?isSelfProfile=true)
+
+
